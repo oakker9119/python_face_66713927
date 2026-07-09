@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Project-specific logs and data (Optional to ignore, uncomment if you want to push them)
+attendance.xlsx
+face_log.txt
+*.pkl
+
+# Dataset (Usually very large, recommended to ignore)
+dataset/
+
+# Temporary scans
+temp_scan.jpg
+
